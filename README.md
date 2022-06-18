@@ -21,3 +21,12 @@ Estudante em desenvolvimento web front-end pela Digital House Brasil e UI Desing
 <img align="left" style="margin-right:5px" width="30" height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 <img align="left" width="30" height="30" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
  
+ <br>
+ <br>
+ <br>
+ <br>
+<div align="center" >
+  <a href="https://github.com/robert-argolo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robert-argolo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert-argolo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
