@@ -5,15 +5,14 @@
 ## Eu sou Robert Argolo!
  
 Estudante em desenvolvimento web front-end pela Digital House Brasil e UI Desinger pela Origamid
+ Estudante | desenvolvimento Web front-end na Digital House | UI Designer na Origamid | Engenheiro civil | Técnico em eletrônica e edificações
  
  
-## Sobre mim 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/robert-argolo)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://linkedin.com/in/robert-argolo)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:robert.s.argolo@gmail.com)
+## Contato 
+  <a href="https://www.linkedin.com/in/robert-argolo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:robert.s.argolo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## Linguagens e ferramentas
-
 <img align="left" style="margin-right:5px" width="30" height="30" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png">
 <img align="left" style="margin-right:5px" width="30" height="30" src="https://cdn-icons-png.flaticon.com/128/732/732190.png">
 <img align="left" style="margin-right:5px" width="30" height="30" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png">
