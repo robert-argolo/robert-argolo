@@ -29,3 +29,5 @@ Estudante em desenvolvimento web front-end pela Digital House Brasil e UI Desing
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robert-argolo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert-argolo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+ 
+ ![Snake animation](https://github.com/robert-argolo/robert-argolo/blob/output/github-contribution-grid-snake.svg)
