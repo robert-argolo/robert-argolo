@@ -4,8 +4,7 @@
  
 ## Eu sou Robert Argolo!
  
-Estudante em desenvolvimento web front-end pela Digital House Brasil e UI Desinger pela Origamid
- Estudante | desenvolvimento Web front-end na Digital House | UI Designer na Origamid | Engenheiro civil | Técnico em eletrônica e edificações
+ Estudante em desenvolvimento Web front-end na Digital House e UI Designer na Origamid | Engenheiro civil | Técnico em eletrônica e edificações
  
  
 ## Contato 
