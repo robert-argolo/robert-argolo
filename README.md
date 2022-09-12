@@ -4,7 +4,7 @@
  
 ## Eu sou Robert Argolo!
  
- Estudante em desenvolvimento Web front-end na Digital House e UI Designer na Origamid | Engenheiro civil | Técnico em eletrônica e edificações
+ Front-End Developer | HTML | CSS | JavaScript | React
  
  
 ## Contato 
@@ -15,10 +15,10 @@
 <img align="left" style="margin-right:5px" width="30" height="30" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png">
 <img align="left" style="margin-right:5px" width="30" height="30" src="https://cdn-icons-png.flaticon.com/128/732/732190.png">
 <img align="left" style="margin-right:5px" width="30" height="30" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png">
+<img alig="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img align="left" style="margin-right:5px" width="30" height="30" src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png">
 <img align="left" style="margin-right:5px" width="30" height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-<img align="left" width="30" height="30" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
- 
+
  <br>
  <br>
  <br>
